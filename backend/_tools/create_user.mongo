@@ -1,0 +1,8 @@
+db.users.insertOne({
+    "username" : "quaese",
+    "hash" : "$2a$10$8r3ucR9pUa2YQXT8L0w5Le.AYROgjS/7OnDXNNzrqUXOGnHmCuKNe",
+    "firstName" : "quaese",
+    "lastName" : "pichel",
+    "role" : "Admin",
+    "createdDate" : "1544108515306"
+})
